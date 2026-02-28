@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Peekr</string>
+    <string name="widget_combined_desc">يعرض آخر المنشورات من كل المنصات</string>
+    <string name="widget_platform_desc">يعرض آخر المنشورات من منصة محددة</string>
+    <string name="widget_custom_desc">ويدجيت مخصص لمصدر معين</string>
+</resources>
